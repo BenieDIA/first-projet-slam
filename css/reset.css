@@ -12,8 +12,10 @@ h1, h2, h3, h4, h5, h6, p, ol, ul, figure, blockquote, dl, dd {
 body {
     line-height: 1.6;
     margin: 0;
+    background-color: var(--raisin-black);
     font: 1.6rem sans-serif; /* Définit une taille de texte par défaut de 16px */
 }
+
 
 ol, ul {
     list-style: none;
